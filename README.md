@@ -1,5 +1,5 @@
 # Data-Wrangling-Project
-Introduction
+## Introduction
 The objective of this project is to wrangle, clean, and generate insight from Twitter data 
 knowns as WeRateDogs which their focus is based on rating dogs and categorizing them. 
 To complete what is being taught in class and to have a better understanding of the 
